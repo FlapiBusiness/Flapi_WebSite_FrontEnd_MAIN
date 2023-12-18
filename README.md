@@ -15,6 +15,8 @@ TODO - TECH STACK :
 - TailwindCSS >= 3.3.6
 
 
+<br /><br /><br />
+
 # Caractéristiques Principales
 ## Site Web Vitrine
 - Inspiré de [Strapi](https://strapi.io/)
