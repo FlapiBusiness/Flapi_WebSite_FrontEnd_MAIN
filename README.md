@@ -33,15 +33,15 @@ TODO - TECH STACK :
 ## Déploiement et Production
 - Utilisation de GitHub Actions pour l'intégration et la livraison continues.
 - Mise en œuvre de Kubernetes pour la gestion et l'orchestration des conteneurs.
-- Configuration avec Docker Compose et Docker Hub.
-- Création de Dockerfile pour la construction et le déploiement.
+- Utilisation de Docker Compose pour le development de l'application.
+- Création de Dockerfile pour la production puis déploiement vers Docker Hub puis utilisation de Kubernetes à partir des images Docker du Docker Hub.
 
 ## Développement
 ### Frontend
 - Utilisation de NuxtJS 3.
 - Tests unitaires avec Vitest.
 - Configuration initiale avec linters, Prettier, ESLint.
-- Scripts de pré-commit pour la vérification du code.
+- Scripts de pré-commit pour la vérification du code (Husky).
 
 ### Backend
 - Basé sur AdonisJS.
