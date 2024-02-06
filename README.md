@@ -6,7 +6,6 @@ TODO - TECH STACK :
 - Dockerfile (Production) -> deploy in DockerHub
 - Kubernetes (Create manifest files)
 - Nuxt v3
-- AdonisJS v5
 - Vitest v1
 - Vitepress >= v1.0.0-rc.32
 - Husky, prettier, eslint
