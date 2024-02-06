@@ -5,16 +5,15 @@ TODO - TECH STACK :
 - Docker Compose v3.8 (Mode development)
 - Dockerfile (Production) -> deploy in DockerHub
 - Kubernetes (Create manifest files)
-- Nuxt v3
-- Vitest v1
+- Nuxt v3 / Vue.js 
 - Vitepress >= v1.0.0-rc.32
+- Capacitor v6
+- Ionic v7
+- Tauri v2
+- Vitest v1 (tests unit)
+- Cypress (tests e2e)
 - Husky, prettier, eslint
 - TailwindCSS >= 3.3.6
-- Bucket S3 (via Minio)
-- Mailhog
-- PhpMyAdmin
-- MariaDB
-- MinioMC
 
 <br /><br /><br />
 
