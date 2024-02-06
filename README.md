@@ -17,15 +17,6 @@ TODO - TECH STACK :
 
 <br /><br /><br />
 
-Docker Compose inclus :
-- Minio
-- MinioMC
-- MariaDB
-- Mailhog (email)
-- PhpMyAdmin
-
-<br /><br /><br />
-
 # Caractéristiques Principales
 ## Site Web Vitrine
 - Inspiré de [Strapi](https://strapi.io/)
