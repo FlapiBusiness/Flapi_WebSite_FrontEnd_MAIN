@@ -7,9 +7,6 @@ TODO - TECH STACK :
 - Kubernetes (Create manifest files)
 - Nuxt v3 / Vue.js 
 - Vitepress >= v1.0.0-rc.32
-- Capacitor v6
-- Ionic v7
-- Tauri v2
 - Vitest v1 (tests unit)
 - Cypress (tests e2e)
 - Husky, prettier, eslint
